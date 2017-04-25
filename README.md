@@ -1,4 +1,7 @@
-# api documentation for  [angular2-datatable (v0.6.0)](https://github.com/mariuszfoltak/angular2-datatable#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-datatable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-datatable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-datatable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-datatable)
+# npmdoc-angular2-datatable
+
+#### basic api documentation for  [angular2-datatable (v0.6.0)](https://github.com/mariuszfoltak/angular2-datatable#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-datatable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-datatable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-datatable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-datatable)
+
 #### DataTable component for Angular2 framework
 
 [![NPM](https://nodei.co/npm/angular2-datatable.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular2-datatable)
@@ -101,7 +104,8 @@
         "start": "http-server -c-1 -o -p 8875 .",
         "test": "karma start karma.conf.js"
     },
-    "version": "0.6.0"
+    "version": "0.6.0",
+    "bin": {}
 }
 ```
 
